@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">recyleView</string>
+    <string name="navigation_drawer_open">Open Navigation
+Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation
+Drawer</string>
+    <string name="ingredients" />
+    <string name="JenisJam" />
+    <string name="Harga_Jam" />
+    <string-array name="Jam">
+        <item>G-Shock</item>
+        <item>Guess</item>
+        <item>Rolex</item>
+        <item>Gucci</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.9</item>
+        <item>4.8</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 1.110.000</item>
+        <item>Rp. 1.499.000</item>
+        <item>Rp. 2.500.000</item>
+    </string-array>
+</resources>
